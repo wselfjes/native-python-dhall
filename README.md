@@ -1,4 +1,4 @@
-![Dhall Logo](https://github.com/dhall-lang/dhall-lang/blob/master/img/dhall-logo.svg =x600)
+<img src="https://github.com/dhall-lang/dhall-lang/blob/master/img/dhall-logo.svg" width="600" alt="Dhall Logo">
 
 Dhall is a programmable configuration language optimized for
 maintainability.
